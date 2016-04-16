@@ -1,0 +1,38 @@
+=== instalacion ===
+
+npm install
+
+=== REQUERIMIENTO BASICO ===
+
+bien chicos esta son las tecnologias que usaremos para desarrollar el proyecto, primero que nada el servidor nodejs es la aplicacion de javascript del lado del servidor gracias a el motor de javascript V8
+https://nodejs.org/en/
+
+segundo un editor de texto cualquiera yo usare sublime
+https://www.google.co.ve/#q=sublime+text
+
+tercero debemos instalar e aprender a usar git, existen entornos graficos pero no hacen gran cosa y somos ingenieros no es tan dificil
+https://git-scm.com/downloads
+
+=== BIBLIOTECAS DEL PROYECTO ===
+
+mini framework, contenedor de el router
+http://expressjs.com/
+
+motor de plantillas, mucho mas facil de lo que parece, el equipo de frond debe instalar algun plugins para facilitar el tranajo eon su motor de plantilla
+https://github.com/justjohn/twig.js/wiki
+
+actual ODM, puede ser sustituido
+http://mongoosejs.com/
+
+base de dato que usa nuestro ODM
+https://www.mongodb.org/
+
+=== PLANES B ===
+
+en caso de que no nos manejemos con el ODM, usaremos mysql que todos nosotros lo conocemos
+https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/
+
+=== RECOMENDACION ===
+
+si por algun motivo no le gusta algo digan, no nos debemos romper la cabeza este archivo NO DEBE PASAR AL REPOSITORIO OFICIAL DE GIT por ser muy informal, lo segundo la carpeta node_modules es caca no se toca esa la usa nuestro npm y pueden recibir asesorias mias porque este es el lenguaje que uso :v
+
